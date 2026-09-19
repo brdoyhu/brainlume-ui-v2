@@ -1,9 +1,9 @@
-# Brainlume UI V2 — Quiet Blue
+# Brainlume Quiet Blue UI prototype
 
-Interactive design prototype. All readings and device states are illustrative.
+Interactive design preview with an AI conversation home, guided four-period measurement, near-infrared light session, temperature settling, calibration, and account/device screens.
 
-- `index.html`: interactive mobile and desktop preview
-- `pages.html`: complete screen gallery
-- `board.html`: four key screens
+- [Try the prototype](https://brdoyhu.github.io/brainlume-ui-v2/)
+- [View the design board](https://brdoyhu.github.io/brainlume-ui-v2/board.html)
+- [Browse all 56 design states](https://brdoyhu.github.io/brainlume-ui-v2/pages.html)
 
-No live device connection, backend, account creation, or email delivery.
+All conversations, signals, readings and device interactions are simulated. This prototype does not connect to real hardware or provide validated measurements.
